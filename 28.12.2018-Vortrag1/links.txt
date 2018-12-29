@@ -1,0 +1,36 @@
+Important tutorials and links
+================================================
+Clean Code A Handbook of Agile Software Craftmanship
+https://cleancoders.com/
+https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html <= Api kucken
+https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html <= Zugriff Pakete
+tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html#thread-names <= Threads
+https://www.baeldung.com/java-synchronized-collections <= On synchronized-collections article
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html   <== Java Datentypen Oracle Doku
+https://docs.oracle.com/javase/tutorial/java/data/numberclasses.html  <== Java Elementare Datentypen
+https://way2java.com/casting-operations/java-byte-to-long/ <= casting
+https://www.programcreek.com/2009/02/diagram-for-hierarchy-of-exception-classes/
+https://www.javabrahman.com/corejava/understanding-exception-hierarchy-java-tutorial/ <== good article about exceptions 
+https://www.mkyong.com/java/java-custom-exception-examples/ <= write own
+https://junit.org/junit5/docs/current/user-guide/ <= Doku wie man Junit verwendet
+https://www.mindmeister.com/1117098557 <== vollstände Java Welt Vorstellung!
+http://www.java2s.com/Tutorials/Java/JavaFX_How_to/Application/React_to_JavaFX_Application_Life_Cycle.htm life Cycle
+https://beginnersbook.com/2014/01/method-overriding-in-java-with-example/ <== overriding and overloading
+http://www.datastart.de/inhalt/java/Grundlagen/kommentare.htm <= kommentare
+https://www.mindmeister.com/1117098557 <= Java Mindmap
+
+Java
+========
+How to know what kind of class your object is?
+assume aVar is instance!
+aVar.getClass();
+aVar.getName();
+aVar.getSuperclass;
+
+projects ExampleOFCleanCode
+Maven Befehle
+
+Beschreibung von Pom
+Eclipse Code enlargement ctrl+shift+ + or -
+https://maven.apache.org/what-is-maven.html
+https://mvnrepository.com
